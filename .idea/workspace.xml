@@ -84,6 +84,7 @@
       <change beforePath="$PROJECT_DIR$/../cook-website/src/components/MainPages/CandyBar.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cook-website/src/components/MainPages/MainPages.module.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cook-website/src/components/Sider.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +128,7 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="C:\Users\Андрей\Desktop\Documents\web\react\my-app\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -207,7 +208,7 @@
       <workItem from="1610899933174" duration="1371000" />
       <workItem from="1611479477322" duration="35000" />
       <workItem from="1611479689417" duration="6208000" />
-      <workItem from="1611934934928" duration="338000" />
+      <workItem from="1611934934928" duration="875000" />
     </task>
     <servers />
   </component>
